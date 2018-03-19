@@ -30,6 +30,7 @@ public class BrunoServiceRobotApplicationTests {
 	        } catch (Exception e) {
 	            throw e;
 	        }
+		
 	}
 	
 	@Test
