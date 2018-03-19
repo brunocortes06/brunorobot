@@ -1,4 +1,4 @@
-# brunorobot
+# Bruno Mars Robot
 
 Aplicação criada utilizando Spring boot + Maven
 
@@ -12,5 +12,9 @@ mvn spring-boot:run
 ## Acesso aos serviços
 
 `http://localhost:8080/rest/mars/MMMMMMMM`
+
 `http://localhost:8080/rest/mars/MMMLR`
+
 `http://localhost:8080/rest/mars/MMLR`
+
+### Para realizar os testes foi utilizado Postman
